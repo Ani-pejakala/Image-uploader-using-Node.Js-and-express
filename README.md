@@ -1,8 +1,8 @@
 # Image-uploader-using-Node.Js-and-express
-A simple file uploader using library express-fileuploader
-<br>How to run<br>
+A simple file uploader using library express-fileuploader.
 
-Install express-fileupload by command: npm i express-fileupload<br>
-
-To run type: node index.js
-<br>open index.html in public folder.Upload image.<br>Images are stored under public folder
+* Install express-fileupload by command: npm i express-fileupload
+* Run this command:node index.js
+* open index.html in public folder.
+* Upload image.
+* Uploaded images are stored under public folder.
